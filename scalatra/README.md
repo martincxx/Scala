@@ -27,5 +27,4 @@ jetty:start
 ```
 * If you're using __localhost__ go to http://localhost:8080/
 ##That's all, but wait, it's time to try [__scalate__](https://github.com/scalate/scalate "Scalate is a Scala based template engine which supports HAML, Mustache and JSP, Erb and Velocity style syntaxes.")
-
-Note: Manning has an interesting book called Scalatra in action. You can check a few sample pages [here](http://freecontent.manning.com/wp-content/uploads/introducing-scalatra.pdf)
+ Note: Manning has an interesting book called Scalatra in action. You can check a few sample pages [here](http://freecontent.manning.com/wp-content/uploads/introducing-scalatra.pdf)
