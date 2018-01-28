@@ -37,6 +37,6 @@ jetty:start
 Note: If you build your project using sbt then just add the following to your **build.sbt** or **project/Build.scala**.
 ```
 libraryDependencies +=
-  "org.scalatra.scalate" %% "scalate-core" % "{latest version}"
+  "org.scalatra" %% "scalatra-scalate" % ScalatraVersion
 ```
 Note: Manning has an interesting book called Scalatra in action. You can check a few sample pages [here](http://freecontent.manning.com/wp-content/uploads/introducing-scalatra.pdf)
